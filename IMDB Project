@@ -1,0 +1,10 @@
+# IMDb Data Analysis Project
+
+This repository contains a detailed analysis of the IMDb dataset using PySpark. The project includes answering questions about the dataset, analyzing the highest-rated comedy movie, and exploring the degrees of separation between actors.
+
+## Participants
+- Mariya Jeya Shalma 
+- Keerthana Boggara 
+
+## Link
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3627117577883688/698484483165963/3917894661580601/latest.html
